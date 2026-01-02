@@ -375,7 +375,7 @@ This package is written in JavaScript but includes type definitions for TypeScri
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Contributing
 
