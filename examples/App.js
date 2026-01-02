@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { QAEditor, QAPlayer, MEDIA_TYPES } from 'react-qa-component';
+import 'reactjs-qa-component/dist/index.css';                             // Import default styles for the Q&A component, it can be put in your main index.js or App.js
+import { QAEditor, QAPlayer, MEDIA_TYPES } from 'reactjs-qa-component';
 
 function App() {
   const [view, setView] = useState('home'); // home, create, display
